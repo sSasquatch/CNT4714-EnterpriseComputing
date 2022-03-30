@@ -1,4 +1,4 @@
-/* Name: Anthony Pionessa
+/* Name: 
  * Course: CNT 4714 Summer 2020
  * Assignment title: Project 3 - Two-Tier Client-Server Application Development With MySQL and JDBC
  * Due Date: June 26, 2020
