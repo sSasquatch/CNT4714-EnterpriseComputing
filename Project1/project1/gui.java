@@ -1,4 +1,4 @@
-/* Name: Anthony Pionessa
+/* Name: 
  * Course: CNT 4714 - Summer 2020
  * Assignment title: Project 1 - Event-driver Enterprise Simulation
  * Date: Sunday May 31, 2020
