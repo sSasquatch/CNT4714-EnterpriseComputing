@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding_1.8.0.v20200205-2008.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding_1.8.0.v20200205-2008.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.6.100.v20191217-1850.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.6.100.v20191217-1850.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.property_1.8.0.v20200124-0715.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.core.databinding.property_1.8.0.v20200124-0715.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.jface.databinding_1.11.0.v20200205-2119.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.jface.databinding_1.11.0.v20200205-2119.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.equinox.common_3.11.0.v20200206-0817.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/org.eclipse.equinox.common_3.11.0.v20200206-0817.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anthony/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar" sourcepath="C:/Users/Anthony/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
